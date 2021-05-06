@@ -1,0 +1,57 @@
+.container-fluid
+{
+    background-image: url(image1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color:rgba(255, 255, 255, 0.644); 
+}
+.first-text
+{   
+    font-size:800%;
+    margin: 0%;
+}
+.second-text
+{
+    font-size:300%;
+    margin-left:13%;
+}
+.third
+{
+    margin-top:10%;
+}
+.box
+{   padding:15%;
+    padding-left: 0%;
+    border: 2px solid black;
+    font-size:50px;
+    font-family:sans-serif;
+    text-align: center;
+    cursor:pointer;
+}
+.box:hover{
+    transform: scale(1); 
+    background-color:rgb(158, 152, 152);
+}
+#button{
+    margin-top:30%;
+    padding:5%;
+    text-align: center;
+    font-size:200%;
+}
+.btn
+{
+    padding: 0%;
+    width: 40%;
+    height: 100px;
+    
+}
+.last
+{
+    background-color: white;
+}
+#text
+{
+    text-align: center;
+    margin-top: 5%;
+    font-size:200%;
+}
